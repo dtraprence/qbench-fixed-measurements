@@ -1,0 +1,4 @@
+QBench fixed-commit local-mount measurement artifact
+Source: https://github.com/QML-Group/qbench/tree/c67c31f99f5bfdb8fef584e2b1c555631933c14d/Benchmarks%20Profile
+Interaction_Graphs: UTF-8 plain JSON array of 2 type=dir, size=0 objects named Real algorithm-based and Synthetic circuits; each exposes name/path/sha/size/url/html_url/git_url/download_url/type/_links; SHA-256 9e5730c71412aae8fac726ce97278be8ab8da88361f80389db480babacbc785b.
+experiment_circuits_algorithm_profiling: UTF-8 plain JSON array of 341 type=file .qasm objects exposing name/path/sha/size/url/html_url/git_url/download_url/type/_links; sizes 197--6,001,082; unique 40-character SHAs; SHA-256 c17b30fd080db3f06797e168968989cd6bdd998c291fb2ac7f600697e41bcfa0.
